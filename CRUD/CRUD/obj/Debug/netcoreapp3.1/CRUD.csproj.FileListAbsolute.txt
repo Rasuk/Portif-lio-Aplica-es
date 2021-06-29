@@ -1,0 +1,13 @@
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.csprojAssemblyReference.cache
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfoInputs.cache
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfo.cs
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CoreCompileInputs.cache
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.exe
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.deps.json
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.json
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.dev.json
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.dll
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.pdb
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.dll
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.pdb
+R:\Desktop\case\Portif-lio-Aplica-es\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.genruntimeconfig.cache
